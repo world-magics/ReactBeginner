@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrap{
+   
+}
+:global .p{
+    width: 900px;
+    margin: 10px auto;
+    background-color: rgba(115, 255, 0, 0.247); 
+}
+.wrap{
+    width: 900px;
+    margin: 10px auto;
+    background-color: rgba(115, 255, 0, 0.247); 
+}
